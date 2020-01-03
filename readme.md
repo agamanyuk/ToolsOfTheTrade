@@ -959,6 +959,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [99Designs](https://99designs.com/) | [@99designs](https://twitter.com/99designs) | - | - |
 | [Fiverr](https://www.fiverr.com) | [@fiverr](https://twitter.com/fiverr) | - | - |
 | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) | [@RemotelyAweJobs](https://twitter.com/RemotelyAweJobs) | - | - |
+| [Tarta](https://tarta.ai) | [@tarta.ai](https://twitter.com/tarta.ai) | - | AI that monitors jobs and match job seekers with the best ones. Also Tarta.ai schedules an interview with recruiters and even helps to pass the interview. |
 
 ### Deployment
 
